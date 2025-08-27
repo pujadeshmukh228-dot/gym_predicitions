@@ -1,0 +1,201 @@
+﻿member_id,age,membership_type,tenure_months,avg_monthly_visits,payment_method,churn,gender,city
+1,58,Monthly,2,9,Credit Card,0,male,kolhapur
+2,32,Monthly,7,18,Credit Card,0,male,chh.sambhaji nagar
+3,55,Quarterly,3,1,Credit Card,1,male,pune
+4,31,Monthly,33,20,Credit Card,0,male,nagar
+5,53,Monthly,35,14,Credit Card,0,male,takli
+6,46,Annual,18,1,Credit Card,0,female,ridhora
+7,45,Quarterly,18,5,Credit Card,0,female,jalna
+8,39,Monthly,6,13,Credit Card,0,female,nashik
+9,40,Quarterly,17,2,Online,0,female,yewatmal
+10,47,Annual,8,13,Credit Card,0,female,mumbai
+11,53,Quarterly,24,19,Credit Card,0,female,thane
+12,22,Monthly,15,10,Credit Card,0,female,chh.sambhaji nagar
+13,32,Monthly,25,9,Cash,0,female,chh.sambhaji nagar
+14,58,Quarterly,11,12,Cash,0,female,pune
+15,31,Annual,18,3,Online,0,female,pune
+16,58,Monthly,35,8,Credit Card,0,female,pune
+17,47,Quarterly,18,18,Credit Card,0,female,pune
+18,38,Monthly,15,2,Cash,0,female,chh.sambhaji nagar
+19,43,Quarterly,5,7,Online,0,female,chh.sambhaji nagar
+20,38,Monthly,32,13,Online,0,female,kolhapur
+21,47,Monthly,17,5,Credit Card,0,female,delhi
+22,53,Annual,17,19,Cash,0,female,bhatinda
+23,55,Quarterly,24,8,Credit Card,0,female,baroda
+24,50,Quarterly,6,2,Credit Card,0,female,surat
+25,27,Annual,11,14,Online,0,female,yewatmal
+26,22,Quarterly,25,20,Cash,0,female,mumbai
+27,51,Quarterly,36,1,Online,0,female,thane
+28,25,Annual,35,9,Online,0,female,chh.sambhaji nagar
+29,39,Monthly,19,14,Credit Card,0,female,yewatmal
+30,47,Monthly,17,17,Credit Card,0,female,mumbai
+31,50,Monthly,20,17,Online,0,female,thane
+32,30,Monthly,24,6,Online,0,female,chh.sambhaji nagar
+33,51,Monthly,21,16,Credit Card,0,male,chh.sambhaji nagar
+34,25,Quarterly,20,8,Credit Card,0,male,pune
+35,33,Annual,6,3,Online,0,male,pune
+36,49,Monthly,35,5,Credit Card,0,male,pune
+37,60,Quarterly,36,6,Cash,0,male,pune
+38,51,Annual,28,7,Online,0,male,chh.sambhaji nagar
+39,30,Annual,20,13,Online,0,male,chh.sambhaji nagar
+40,59,Quarterly,29,17,Cash,0,male,kolhapur
+41,25,Monthly,15,3,Cash,0,male,delhi
+42,19,Annual,36,8,Online,0,male,bhatinda
+43,32,Monthly,5,2,Credit Card,1,male,baroda
+44,22,Monthly,22,3,Online,0,male,surat
+45,33,Quarterly,32,7,Online,0,male,yewatmal
+46,26,Annual,31,8,Cash,0,male,mumbai
+47,44,Monthly,7,4,Online,0,male,thane
+48,45,Quarterly,28,14,Cash,0,male,chh.sambhaji nagar
+49,21,Annual,7,2,Cash,0,male,yewatmal
+50,39,Monthly,16,7,Credit Card,0,male,mumbai
+51,52,Quarterly,9,14,Credit Card,0,male,thane
+52,35,Quarterly,16,3,Cash,0,male,chh.sambhaji nagar
+53,53,Monthly,4,18,Credit Card,0,male,chh.sambhaji nagar
+54,23,Monthly,11,14,Cash,0,male,pune
+55,48,Monthly,26,2,Credit Card,0,female,pune
+56,42,Monthly,25,9,Cash,0,female,pune
+57,36,Quarterly,36,16,Credit Card,0,female,pune
+58,30,Quarterly,14,2,Online,0,female,chh.sambhaji nagar
+59,52,Monthly,21,2,Credit Card,0,female,chh.sambhaji nagar
+60,55,Quarterly,33,17,Credit Card,0,female,kolhapur
+61,21,Annual,6,6,Credit Card,0,female,delhi
+62,56,Monthly,16,13,Credit Card,0,female,bhatinda
+63,54,Monthly,3,20,Credit Card,0,female,baroda
+64,44,Annual,34,11,Cash,0,female,surat
+65,31,Annual,21,8,Cash,0,female,yewatmal
+66,43,Monthly,20,15,Cash,0,female,mumbai
+67,22,Monthly,30,20,Online,0,female,thane
+68,24,Monthly,35,7,Online,0,female,chh.sambhaji nagar
+69,34,Monthly,23,3,Credit Card,0,female,yewatmal
+70,41,Quarterly,11,15,Online,0,female,mumbai
+71,37,Annual,34,1,Online,0,female,thane
+72,53,Quarterly,7,5,Cash,0,female,chh.sambhaji nagar
+73,25,Monthly,36,5,Cash,0,female,chh.sambhaji nagar
+74,36,Annual,14,11,Credit Card,0,female,pune
+75,58,Quarterly,33,16,Cash,0,female,pune
+76,21,Monthly,28,9,Credit Card,0,female,pune
+77,18,Quarterly,9,9,Credit Card,0,female,pune
+78,46,Annual,28,18,Credit Card,0,female,chh.sambhaji nagar
+79,25,Monthly,10,18,Credit Card,0,female,chh.sambhaji nagar
+80,41,Annual,36,5,Cash,0,female,kolhapur
+81,26,Monthly,20,12,Credit Card,0,female,delhi
+82,40,Monthly,16,4,Cash,0,female,bhatinda
+83,53,Quarterly,10,8,Credit Card,0,female,baroda
+84,29,Quarterly,2,6,Online,0,female,surat
+85,39,Quarterly,16,9,Credit Card,0,female,yewatmal
+86,24,Quarterly,3,16,Credit Card,0,female,mumbai
+87,30,Quarterly,23,10,Credit Card,0,female,thane
+88,32,Monthly,13,13,Cash,0,female,chh.sambhaji nagar
+89,35,Monthly,18,12,Online,0,female,yewatmal
+90,50,Quarterly,35,11,Credit Card,0,female,mumbai
+91,25,Quarterly,12,19,Cash,0,female,thane
+92,20,Monthly,28,12,Online,0,female,chh.sambhaji nagar
+93,38,Quarterly,33,4,Cash,0,female,chh.sambhaji nagar
+94,54,Monthly,17,2,Online,0,female,pune
+95,45,Monthly,34,18,Online,0,female,pune
+96,60,Monthly,24,14,Credit Card,0,female,pune
+97,60,Quarterly,21,4,Online,0,female,pune
+98,37,Annual,20,14,Cash,0,female,chh.sambhaji nagar
+99,43,Annual,19,18,Credit Card,0,female,chh.sambhaji nagar
+100,30,Quarterly,25,6,Online,0,female,kolhapur
+101,54,Quarterly,26,18,Credit Card,0,female,delhi
+102,37,Quarterly,14,14,Online,0,female,bhatinda
+103,56,Annual,21,15,Cash,0,male,baroda
+104,46,Annual,14,17,Cash,0,male,surat
+105,28,Annual,6,10,Online,0,male,yewatmal
+106,60,Annual,22,3,Credit Card,0,male,mumbai
+107,37,Monthly,13,5,Credit Card,0,male,thane
+108,20,Monthly,31,20,Credit Card,0,male,chh.sambhaji nagar
+109,47,Quarterly,13,13,Cash,0,male,yewatmal
+110,43,Monthly,10,1,Credit Card,0,male,mumbai
+111,45,Monthly,12,17,Cash,0,male,thane
+112,21,Annual,16,4,Cash,0,male,chh.sambhaji nagar
+113,26,Quarterly,34,18,Online,0,male,chh.sambhaji nagar
+114,38,Quarterly,33,14,Online,0,male,pune
+115,46,Monthly,31,15,Cash,0,male,pune
+116,33,Annual,18,17,Cash,0,male,pune
+117,58,Monthly,18,15,Credit Card,0,male,pune
+118,36,Monthly,18,11,Cash,0,male,chh.sambhaji nagar
+119,52,Monthly,9,5,Credit Card,0,male,chh.sambhaji nagar
+120,42,Annual,10,7,Credit Card,0,male,kolhapur
+121,44,Quarterly,22,18,Cash,0,male,delhi
+122,44,Monthly,14,14,Cash,0,male,bhatinda
+123,55,Annual,2,19,Cash,0,male,baroda
+124,48,Monthly,23,10,Cash,0,male,surat
+125,44,Annual,35,20,Credit Card,0,male,yewatmal
+126,49,Monthly,18,14,Cash,0,male,mumbai
+127,19,Quarterly,22,13,Online,0,male,thane
+128,28,Quarterly,9,20,Online,0,male,chh.sambhaji nagar
+129,19,Quarterly,2,3,Online,1,male,yewatmal
+130,45,Monthly,30,6,Credit Card,0,male,mumbai
+131,34,Quarterly,21,7,Cash,0,male,thane
+132,38,Quarterly,25,9,Cash,0,male,chh.sambhaji nagar
+133,34,Monthly,31,1,Online,0,male,chh.sambhaji nagar
+134,52,Monthly,23,8,Online,0,male,pune
+135,22,Annual,3,1,Credit Card,1,male,pune
+136,30,Monthly,10,8,Credit Card,0,male,pune
+137,48,Annual,8,19,Credit Card,0,male,pune
+138,47,Annual,17,12,Credit Card,0,male,chh.sambhaji nagar
+139,56,Annual,8,6,Cash,0,male,chh.sambhaji nagar
+140,24,Annual,2,10,Online,0,male,kolhapur
+141,42,Quarterly,13,3,Online,0,male,delhi
+142,58,Monthly,7,10,Online,0,male,bhatinda
+143,56,Monthly,3,12,Online,0,male,baroda
+144,45,Annual,24,3,Online,0,male,surat
+145,59,Quarterly,1,14,Cash,0,male,yewatmal
+146,24,Quarterly,24,15,Online,0,male,mumbai
+147,27,Quarterly,12,17,Online,0,male,thane
+148,35,Annual,35,16,Cash,0,male,chh.sambhaji nagar
+149,45,Annual,18,11,Credit Card,0,male,yewatmal
+150,23,Quarterly,29,8,Cash,0,male,mumbai
+151,54,Annual,25,11,Credit Card,0,male,thane
+152,49,Quarterly,12,16,Credit Card,0,male,chh.sambhaji nagar
+153,40,Quarterly,22,9,Online,0,male,chh.sambhaji nagar
+154,35,Annual,1,17,Credit Card,0,male,pune
+155,23,Monthly,27,16,Online,0,male,pune
+156,33,Annual,31,16,Cash,0,male,pune
+157,19,Monthly,19,8,Cash,0,male,pune
+158,33,Quarterly,24,16,Online,0,male,chh.sambhaji nagar
+159,51,Quarterly,28,18,Cash,0,male,chh.sambhaji nagar
+160,40,Annual,30,9,Cash,0,male,kolhapur
+161,34,Monthly,8,7,Cash,0,male,delhi
+162,25,Annual,35,6,Credit Card,0,male,bhatinda
+163,31,Annual,31,9,Online,0,male,baroda
+164,55,Annual,19,4,Credit Card,0,male,surat
+165,36,Monthly,24,6,Cash,0,male,yewatmal
+166,18,Annual,35,5,Cash,0,male,mumbai
+167,20,Monthly,36,10,Online,0,male,thane
+168,26,Annual,32,4,Credit Card,0,male,chh.sambhaji nagar
+169,54,Quarterly,31,16,Cash,0,male,yewatmal
+170,39,Monthly,4,9,Cash,0,male,mumbai
+171,25,Monthly,26,16,Credit Card,0,male,thane
+172,54,Annual,4,5,Credit Card,0,male,chh.sambhaji nagar
+173,54,Quarterly,6,8,Credit Card,0,male,chh.sambhaji nagar
+174,53,Quarterly,15,17,Cash,0,male,pune
+175,46,Quarterly,20,19,Cash,0,male,pune
+176,37,Annual,4,20,Online,0,male,pune
+177,24,Monthly,14,9,Online,0,male,pune
+178,23,Monthly,16,6,Online,0,male,chh.sambhaji nagar
+179,22,Monthly,1,14,Cash,0,male,chh.sambhaji nagar
+180,56,Quarterly,19,2,Credit Card,0,male,kolhapur
+181,36,Annual,19,15,Credit Card,0,male,delhi
+182,32,Quarterly,13,14,Credit Card,0,male,bhatinda
+183,52,Monthly,10,9,Credit Card,0,male,baroda
+184,22,Monthly,11,10,Online,0,male,surat
+185,54,Quarterly,29,4,Cash,0,male,yewatmal
+186,37,Annual,26,9,Online,0,male,mumbai
+187,52,Quarterly,29,3,Online,0,male,thane
+188,20,Quarterly,21,20,Cash,0,male,chh.sambhaji nagar
+189,19,Monthly,15,19,Online,0,male,yewatmal
+190,19,Annual,18,19,Credit Card,0,male,mumbai
+191,29,Quarterly,34,15,Cash,0,male,thane
+192,29,Annual,28,16,Credit Card,0,male,chh.sambhaji nagar
+193,48,Quarterly,27,11,Cash,0,male,chh.sambhaji nagar
+194,60,Monthly,11,11,Cash,0,male,pune
+195,49,Quarterly,26,18,Credit Card,0,male,pune
+196,47,Monthly,21,9,Cash,0,male,pune
+197,25,Quarterly,33,1,Online,0,male,pune
+198,52,Quarterly,27,2,Credit Card,0,male,chh.sambhaji nagar
+199,51,Quarterly,32,15,Credit Card,0,male,chh.sambhaji nagar
+200,31,Quarterly,36,5,Cash,0,male,kolhapur
